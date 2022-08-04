@@ -7,7 +7,7 @@
 <img align="right" alt ="coding" width="250" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://academy4it.com/blogs/](https://academy4it.com/blogs/)
 
