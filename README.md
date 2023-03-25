@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **C , Java and Web development**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
