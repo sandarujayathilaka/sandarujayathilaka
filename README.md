@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Sandaru
 
-A 3rd-year Undergraduate Software Engineering Student with a keen interest in building innovative solutions and contributing to open-source projects.
+Final-year Undergraduate Software Engineering Student with a keen interest in building innovative solutions and contributing to open-source projects.
 
 🚀 Let's connect, collaborate, and create amazing things together! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if there's an exciting project you think we could work on together.
 
